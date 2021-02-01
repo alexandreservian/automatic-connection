@@ -1,0 +1,18 @@
+{
+	"name": "automatic-connection",
+	"version": "0.0.1",
+	"description": "Script de conecao com o servico twilio",
+	"main": "index.js",
+	"dependencies": {
+		"twilio": "^3.55.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"twilio"
+	],
+	"author": "alexandre servian <alexandre.servian@gmail.com>",
+	"license": "MIT"
+}
